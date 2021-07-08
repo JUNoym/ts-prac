@@ -10,7 +10,7 @@ export const isUserSignedIn = (userId: string, userName?: string): boolean => {
 }
 
 // デフォルトパラメータを持つ関数
-export const isUserSignedIn2 = (userId: string, userName: string = "No Name"): boolean => {
+export const isUserSignedIn2 = (userId: string, userName: string = "default prams"): boolean => {
     if (userId === 'abc') {
         console.log('sample 1 : user is signed in ! username is ', userName);
         return true

@@ -51,7 +51,16 @@ export default function objectSample() {
         canada: 'Otawa'
     }
 
+    const capitals2: {
+        [countryId: number]: string
+    } = {
+        1: 'Japan',
+        2: 'America',
+        3: 'Noname'
+    }
+
     console.log(capitals);
+    console.log(capitals2);
 
 
 }

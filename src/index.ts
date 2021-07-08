@@ -29,8 +29,12 @@
 // logmessage('hello！！！')
 
 // オブジェクトの方定義方法
-import objectSample from './object/object'
-import ailiasSample from './object/ailias'
-'./object/object'
-objectSample()
-ailiasSample()
+// import objectSample from './object/object'
+// import ailiasSample from './object/ailias'
+// './object/object'
+// objectSample()
+// ailiasSample()
+
+//配列の型定義
+// import arraySample from './array/array'
+// arraySample()

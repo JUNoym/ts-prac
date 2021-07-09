@@ -37,4 +37,10 @@
 
 //配列の型定義
 // import arraySample from './array/array'
+// import tupleSample from './array/tuple'
+// tupleSample()
 // arraySample()
+
+// ジェネリック型　ポリモーフィズム
+import genericsBasicSample from './generics/basic'
+genericsBasicSample()

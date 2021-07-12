@@ -42,5 +42,9 @@
 // arraySample()
 
 // ジェネリック型　ポリモーフィズム
-import genericsBasicSample from './generics/basic'
-genericsBasicSample()
+// import genericsBasicSample from './generics/basic'
+// import genericsAdvanced from './generics/advanced'
+// genericsBasicSample()
+// genericsAdvanced()
+
+// オブジェクト指向

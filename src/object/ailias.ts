@@ -1,4 +1,3 @@
-import { logmessage } from "function/parms";
 
 export default function ailiasSample() {
     //　型エイリアス　同じ型を何度も定義する必要がなくなるので便利
